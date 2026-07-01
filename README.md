@@ -1,2 +1,3 @@
-# AI-Chatbot-Python
-A simple rule-based AI chatbot built using Python. It responds to greetings, jokes, fun facts, and basic user queries.
+# Rule-Based AI Chatbot(Python)
+Built as part of an AI learning project using Python. Implemented greetings, help responses, jokes, fun facts, and user interaction using functions, lists, loops, and contional statements.
+
